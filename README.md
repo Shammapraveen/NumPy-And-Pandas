@@ -1,2 +1,3 @@
-# NumPy-And-Pandas
-It consist the command of NumPy Array, NumPy functions, Pandas, Pandas DataFrame
+# NumPy,Pandas and Matplotlip
+It consist the command of NumPy Array, NumPy functions, Pandas, Pandas DataFrame,Matplotlib
+
